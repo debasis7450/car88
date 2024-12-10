@@ -4,4 +4,5 @@ tata
 mahindra
 ferrari
 posche
-
+bajaj
+allianz
